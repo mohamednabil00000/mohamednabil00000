@@ -16,9 +16,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: X
-          #plugin_wakatime: yes
-          #plugin_wakatime_sections:  projects, projects-graphs, languages, languages-graphs, editors, os
-          #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_people: yes
           plugin_people_types: followers, contributors, stargazers, watchers, sponsors, watchers
           plugin_languages: yes
@@ -30,7 +27,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           plugin_leetcode: yes
-          plugin_leetcode_sections: skills
+          plugin_leetcode_sections: solved, skills, recent
           base: repositories
           plugin_traffic: yes
         
