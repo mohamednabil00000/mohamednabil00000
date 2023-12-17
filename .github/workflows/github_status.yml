@@ -30,7 +30,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: skills
           base: repositories
           plugin_traffic: yes
         
