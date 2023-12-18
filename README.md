@@ -15,23 +15,26 @@
  
 </span>
  
+## 💻 Languages
+<p align="center">
+	<a href="https://www.ruby-lang.org/en/"> <img src="/images/programming_languages/ruby_on_rails.png" alt="rubyonrails" width="70" height="50"/> </a>
+	<a href="https://www.java.com/en/"> <img src="/images/programming_languages/java.jpeg" alt="java" width="70" height="50"/> </a> 
+	<a href="https://go.dev/"> <img src="/images/programming_languages/golang.png" alt="golang" width="70" height="50"/> </a> 
+</p>
 
-
-## 💻 Languages and Tools
-<p align="left"> </a> <a href="https://www.ruby-lang.org/en/"> <img src="/images/ruby_on_rails.png" alt="rubyonrails" width="70" height="50"/> </a>
-<a href="https://www.java.com/en/"> <img src="/images/java.jpeg" alt="java" width="70" height="50"/> </a> 
-<a href="https://go.dev/"> <img src="/images/golang.png" alt="golang" width="70" height="50"/> </a> 
-<a href="https://aws.amazon.com/"> <img src="/images/aws.png" alt="aws" width="70" height="50"/> </a> 
-<a href="https://www.postgresql.org/"> <img src="/images/postgres.png" alt="postgres" width="70" height="50"/> </a> 
-<a href="https://aws.amazon.com/pm/dynamodb"> <img src="/images/dynamodb.png" alt="dynamodb" width="70" height="50"/> </a> 
-<a href="https://microservices.io/"> <img src="/images/microservices.jpeg" alt="microservices" width="70" height="50"/> </a> 
-<a href="https://www.docker.com/"> <img src="/images/docker.png" alt="docker" width="70" height="50"/> </a> 
-<a href="https://newrelic.com/"> <img src="/images/newrelic.png" alt="newrelic" width="70" height="50"/> </a> 
-<a href="https://sentry.io/branding/"> <img src="/images/sentry.png" alt="sentry" width="70" height="50"/> </a> 
-<a href="https://www.datadoghq.com/"> <img src="/images/datadog.jpg" alt="datadog" width="70" height="50"/> </a> 
-<a href="https://www.pagerduty.com/"> <img src="/images/pagerduty.png" alt="pagerduty" width="70" height="50"/> </a> 
-<a href="https://jmeter.apache.org/"> <img src="/images/jmeter.webp" alt="jmeter" width="70" height="50"/> </a> 
-<a href="https://teamcapybara.github.io/capybara/"> <img src="/images/capybara.png" alt="capybara" width="70" height="50"/> </a> 
+## 💻 Technologies
+<p align="left">
+<a href="https://aws.amazon.com/"> <img src="/images/technologies/aws.png" alt="aws" width="70" height="50"/> </a> 
+<a href="https://www.postgresql.org/"> <img src="/images/technologies/postgres.png" alt="postgres" width="70" height="50"/> </a> 
+<a href="https://aws.amazon.com/pm/dynamodb"> <img src="/images/technologies/dynamodb.png" alt="dynamodb" width="70" height="50"/> </a> 
+<a href="https://microservices.io/"> <img src="/images/technologies/microservices.jpeg" alt="microservices" width="70" height="50"/> </a> 
+<a href="https://www.docker.com/"> <img src="/images/technologies/docker.png" alt="docker" width="70" height="50"/> </a> 
+<a href="https://newrelic.com/"> <img src="/images/technologies/newrelic.png" alt="newrelic" width="70" height="50"/> </a> 
+<a href="https://sentry.io/branding/"> <img src="/images/technologies/sentry.png" alt="sentry" width="70" height="50"/> </a> 
+<a href="https://www.datadoghq.com/"> <img src="/images/technologies/datadog.jpg" alt="datadog" width="70" height="50"/> </a> 
+<a href="https://www.pagerduty.com/"> <img src="/images/technologies/pagerduty.png" alt="pagerduty" width="70" height="50"/> </a> 
+<a href="https://jmeter.apache.org/"> <img src="/images/technologies/jmeter.webp" alt="jmeter" width="70" height="50"/> </a> 
+<a href="https://teamcapybara.github.io/capybara/"> <img src="/images/technologies/capybara.png" alt="capybara" width="70" height="50"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -44,13 +47,16 @@
 
 ##  Connect with me
 
-My email: mohamednabil00000@gmail.com
-
 <p align="left">
-<a href="https://www.linkedin.com/in/m-nabil-a184125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamednabil00000" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohamednabil00000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamednabil00000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mohamednabil4186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamednabil4186" height="30" width="40" /></a>
-<a href="https://leetcode.com/mohamednabil00000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamednabil00000" height="30" width="40" /></a>
+	
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamednabil00000@gmail.com" target="blank"><img align="center" src="/images/social/gmail.webp" alt="m-nabil-a184125b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-nabil-a184125b/" target="blank"><img align="center" src="/images/social/linkedin.svg" alt="m-nabil-a184125b" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamednabil00000" target="blank"><img align="center" src="/images/social/facebook.svg" alt="mohamednabil00000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mohamednabil4186" target="blank"><img align="center" src="/images/social/hackerrank.svg" alt="mohamednabil4186" height="30" width="40" /></a>
+<a href="https://leetcode.com/mohamednabil00000/" target="blank"><img align="center" src="/images/social/leet-code.svg" alt="mohamednabil00000" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamednabil00000" target="blank"><img align="center" src="/images/social/instagram.svg" alt="mohamednabil00000" height="30" width="40" /></a>
+<a href="https://wa.me/201022732119" target="blank"><img align="center" src="/images/social/whatsapp.svg" alt="01022732119" height="30" width="40" /></a>
+
 
 </p>
 
