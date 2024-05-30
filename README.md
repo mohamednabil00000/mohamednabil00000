@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Nabil</h1>
-<h3 align="center">I have more than 7 years of professional experience in software engineering, including 4 years of remote work. I have a Bachelor's degree in Computer Software Engineering from Alexandria University, where I graduated in 2016. I have a strong background in computer science, data structures, algorithms, and software development life cycle (SDLC). I have also earned multiple certifications and honors from HackerRank and Andela, demonstrating my proficiency and passion for coding and problem-solving. I enjoy learning new technologies, taking on new challenges, and collaborating with other engineers to create impactful solutions. My main stacks are RoR, java and golang.
+<h3 align="center">I have 8 years of professional experience in software engineering, including 4 years of remote work. I have a Bachelor's degree in Computer Software Engineering from Alexandria University, where I graduated in 2016. I have a strong background in computer science, data structures, algorithms, and software development life cycle (SDLC). I have also earned multiple certifications and honors from HackerRank and Andela, demonstrating my proficiency and passion for coding and problem-solving. I enjoy learning new technologies, taking on new challenges, and collaborating with other engineers to create impactful solutions. My main stacks are RoR, java and golang.
 </h3>
 
 
